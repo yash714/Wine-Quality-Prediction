@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Yash/DS_Project/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/f24b63df4a764f5a8de8d727a046c014/artifacts
+end_time: 1695471974465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f24b63df4a764f5a8de8d727a046c014
+run_name: painted-snail-672
+run_uuid: f24b63df4a764f5a8de8d727a046c014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695471970253
+status: 3
+tags: []
+user_id: Yash
