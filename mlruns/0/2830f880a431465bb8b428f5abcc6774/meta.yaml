@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Yash/DS_Project/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/2830f880a431465bb8b428f5abcc6774/artifacts
+end_time: 1695470519538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2830f880a431465bb8b428f5abcc6774
+run_name: abundant-goose-798
+run_uuid: 2830f880a431465bb8b428f5abcc6774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695470516167
+status: 3
+tags: []
+user_id: Yash
