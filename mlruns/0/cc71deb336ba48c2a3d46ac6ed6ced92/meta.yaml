@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Yash/DS_Project/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/cc71deb336ba48c2a3d46ac6ed6ced92/artifacts
+end_time: 1694288565099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc71deb336ba48c2a3d46ac6ed6ced92
+run_name: big-turtle-450
+run_uuid: cc71deb336ba48c2a3d46ac6ed6ced92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694288561781
+status: 3
+tags: []
+user_id: Yash
